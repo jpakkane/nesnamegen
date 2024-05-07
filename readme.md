@@ -17,7 +17,9 @@ Wikipedia](https://en.wikipedia.org/wiki/List_of_Nintendo_Entertainment_System_g
 - The Lost Dinosaur Icarus
 - Mansion Dracula Warriors
 - Mighty Hoops, Mighty Rivals
+- Snake Hammerin'
 - MD Totally Heavy
 - Disney's Die! Connors
 - Monopoly Ransom Manta Caper!
 - Valiant RoadBlasters at Eliminator
+- Revenge Marble

@@ -25,9 +25,12 @@ class NesGen:
 
     def w(self):
         return random.choice(self.wordlist)
-        
+
     def print_names(self):
-        print('Three word game names\n')
+        print('Two word game names\n')
+        for i in range(10):
+            print(self.w(), self.w())
+        print('\nThree word game names\n')
         for i in range(10):
             print(self.w(), self.w(), self.w())
         print('\n\nFour word game names\n')
