@@ -5,7 +5,7 @@
 import sys, os, random
 
 def cleaned(text):
-    return text.replace('[', ' ').replace(']', ' ').replace('|', ' ').replace('video game', ' ').replace('(', ' ').replace(')', ' ').replace(':', ' ').replace('#', ' ')
+    return text.replace('[', ' ').replace(']', ' ').replace('|', ' ').replace('video game', ' ').replace('(', ' ').replace(')', ' ').replace(':', ' ').replace('#', ' ').replace('/', ' ')
 
 class NesGen:
     def __init__(self):
