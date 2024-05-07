@@ -25,3 +25,4 @@ Wikipedia](https://en.wikipedia.org/wiki/List_of_Nintendo_Entertainment_System_g
 - Revenge Marble
 - Kung-Fu Hogan's F-15
 - Sinister P.O.W.
+- Duck Combat Baseball
